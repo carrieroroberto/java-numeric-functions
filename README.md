@@ -3,12 +3,12 @@
 
 🛠️ The repository contains:
 
-➡ resolveExpression: calculates the result of a given complex expression.
+➡ <b>resolveExpression</b>: calculates the result of a given complex expression.
 <br>
-➡ decimalToBinary: converts a given number into a binary number (also decimal).
+➡ <b>decimalToBinary</b>: converts a given number into a binary number (also decimal).
 
 👨🏻‍💻 Functions Headers:
 
-➡ String resolveExpression(String value): gets a string expression (value parameter) and return a string result.
+➡ <b>String resolveExpression(String value)</b>: gets a string expression (value parameter) and return a string result.
 <br>
-➡ String decimalToBinary(String value): gets a string value in decimal (value parameter) and return a string result in binary.
+➡ <b>String decimalToBinary(String value)</b>: gets a string value in decimal (value parameter) and return a string result in binary.
